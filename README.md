@@ -118,9 +118,9 @@ Video Recording Link
 
 Published Power BI Report
 
-Power BI Service report link here:
+Power BI Service report link here:(https://app.powerbi.com/links/X1tUePQZU1?ctid=bbce5c37-f181-4d0c-9310-7f877336e1cf&pbi_source=linkShare)
 
-Published Power BI Report Link
+Powerpoint Link: https://yearuptemp-my.sharepoint.com/:p:/g/personal/pgreen-holloway_my_yearupunited_org/IQDubFaqxCQYTbCq-gmPBPQrAVX2AFR3jBC-ry0QlWLdMwg?e=WehRBx
 
 Final Reflection
 
