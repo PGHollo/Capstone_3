@@ -114,7 +114,7 @@ Video Recording
 
 10-minute project walkthrough video here:
 
-Video Recording Link
+Video Recording Link: https://yearuptemp-my.sharepoint.com/:v:/g/personal/pgreen-holloway_my_yearupunited_org/IQCpJlu1-j3vQbptMG0ArGFfAYxDgDJPREei_G_mRM00rfY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=P1iAWM
 
 Published Power BI Report
 
